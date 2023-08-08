@@ -1,3 +1,18 @@
+## Tailwind Blog UI:
+This repo tells the info about blog Ui or simple website which is completely made by tailwind css and reactJs. In Reactjs I have used props and react-typed library .
+
+# Preview Image :
+- [click here for demo](https://tailwind-blog-ui.vercel.app/)
+<br/>
+
+![fc1](https://github.com/dash-09/BlogUI/assets/74849401/2f0a43ac-1793-41d0-a41f-5bb82cbc3394)
+<br/>
+
+
+
+
+> INFO ABOUT REACT APP
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
